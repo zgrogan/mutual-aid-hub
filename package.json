@@ -8,6 +8,7 @@
     "build:watch": "spago build --watch",
     "prestart": "npm run build",
     "start": "parcel serve public/index.html --open",
+    "test": "npx spago test",
     "prebundle": "npm run build",
     "bundle": "parcel build public/index.html"
   },

@@ -1,0 +1,11 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore output directory
+output/
+
+# Ignore .spago directory
+.spago/
+
+# Ignore .psc-ide-port file
+.psc-ide-port
