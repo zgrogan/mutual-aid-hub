@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }.screen {
+    background-color: lightblue;
+    height: 360px;
+    width: 640px;
+  }
